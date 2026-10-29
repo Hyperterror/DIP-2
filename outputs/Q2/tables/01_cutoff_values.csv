@@ -1,0 +1,13 @@
+filter,parameter D0,radius,theoretical,label
+ideal,40.0,0.0,1.0,
+ideal,40.0,40.0,1.0,
+ideal,40.0,60.0,0.0,
+butterworth,40.0,0.0,1.0,
+butterworth,40.0,40.0,0.5,
+butterworth,40.0,60.0,0.16494845360824742,
+gaussian,40.0,0.0,1.0,
+gaussian,40.0,40.0,0.6065306597126334,
+gaussian,40.0,60.0,0.32465246735834974,
+gaussian,33.972872011520764,0.0,1.0,matched Gaussian
+gaussian,33.972872011520764,40.0,0.5,matched Gaussian
+gaussian,33.972872011520764,60.0,0.21022410381342868,matched Gaussian

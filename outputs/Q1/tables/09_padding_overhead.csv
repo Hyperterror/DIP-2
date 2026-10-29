@@ -1,0 +1,8 @@
+quantity,value
+original grid samples,262144
+padded grid samples,264196
+original complex grid bytes,4194304
+padded complex grid bytes,4227136
+memory allocation factor,1.0078277587890625
+grid storage percentage increase,0.78277587890625
+FFT-model complexity ratio,1.0084576006566475

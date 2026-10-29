@@ -1,0 +1,4 @@
+metric,value,tolerance,pass
+maximum complex conjugate-symmetry error,3.375383607360116e-06,1e-05,True
+mean complex conjugate-symmetry error,2.141903335211706e-09,1e-05,True
+maximum magnitude-symmetry error,1.7853453755378723e-06,1e-05,True

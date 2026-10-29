@@ -1,0 +1,2 @@
+input dimensions,kernel dimensions,minimum transform dimensions,direct output dimensions,maximum absolute error,mean absolute error,relative L2 error
+"(512, 512)","(3, 3)","(514, 514)","(514, 514)",1.0981437981172348e-10,1.7442704538522703e-11,5.684328651769066e-13

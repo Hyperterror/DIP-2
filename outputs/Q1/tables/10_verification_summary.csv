@@ -1,0 +1,15 @@
+check,measured,tolerance,pass
+Custom DFT vs numpy.fft.fft2 (relative),1.3467218559736226e-13,1e-10,True
+Custom DFT maximum absolute error,3.3704750409373667e-06,1e-05,True
+Custom inverse reconstruction,9.347252698516512e-14,1e-10,True
+Inverse imaginary residual,5.510969458555337e-11,1e-08,True
+Conjugate symmetry,3.375383607360116e-06,1e-05,True
+Shift theorem (maximum over shifts),2.0694141407749188e-06,1e-05,True
+Circular convolution theorem,7.708478300116894e-11,1e-08,True
+Sinusoidal frequency recovery,0.0,0.0,True
+Sinusoidal amplitude recovery,2.1316282072803006e-14,1e-06,True
+Sinusoidal phase recovery,1.3988810110276972e-14,1e-06,True
+Phase-only imaginary residual,3.791861572996491e-15,1e-08,True
+Zero-phase imaginary residual,2.665956344571896e-10,1e-08,True
+Padded vs direct linear convolution,5.684328651769066e-13,1e-10,True
+Padding dimensions and storage factor,0.0,0.0,True

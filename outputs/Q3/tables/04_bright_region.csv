@@ -1,0 +1,4 @@
+method,bright mean,bright std,bright maximum,bright 99th percentile,percent at upper display limit,mapping
+original,0.4246836190476192,0.28924429099730314,1.0,1.0,6.835285714285715,"raw then clip [0,1]"
+homomorphic recommended,0.6403208161018473,0.21917985193861284,1.135277421512401,1.0215185901114234,8.425,"raw then clip [0,1]"
+histogram equalized,0.866156756302521,0.12279888495501973,1.0,1.0,6.835285714285715,"raw then clip [0,1]"

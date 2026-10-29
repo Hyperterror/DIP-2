@@ -1,0 +1,3 @@
+dx,dy,maximum absolute error,mean absolute error,relative L2 error,absolute tolerance,relative tolerance,pass
+13,7,1.923131171143729e-06,1.2823657383964765e-09,1.1065065723532583e-13,1e-05,1e-10,True
+-16,11,2.0694141407749188e-06,1.3159786035478804e-09,1.1303518707992286e-13,1e-05,1e-10,True

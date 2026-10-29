@@ -1,0 +1,4 @@
+seed=20261029
+noise_levels_8bit=5,10,20,40
+PSD=radial periodogram minus known white floor, moving average width 9
+metrics=clipped to [0,1], RGB channel mean SSIM, data range 1

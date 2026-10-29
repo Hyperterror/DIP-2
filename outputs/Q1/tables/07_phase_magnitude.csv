@@ -1,0 +1,9 @@
+metric,value,tolerance,pass
+phase-only maximum imaginary residual,3.791861572996491e-15,1e-08,True
+zero-phase maximum imaginary residual,2.665956344571896e-10,1e-08,True
+phase-only mean,3.814697265625012e-06,,
+phase-only standard deviation,0.0019531212747061477,,
+zero-phase mean,129.06072616577504,,
+zero-phase standard deviation,73.64484655630858,,
+phase-only correlation with original,0.18412120553176137,,
+zero-phase correlation with original,0.08883517020946491,,

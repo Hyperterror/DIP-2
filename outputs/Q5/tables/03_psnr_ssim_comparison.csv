@@ -1,0 +1,21 @@
+sigma 8-bit,method,PSNR dB,SSIM,parameter selection,oracle tuned,metric clipping,data range
+5,noisy,34.28953420724341,0.8414936463038126,baseline,False,"[0,1]",1
+5,wiener,37.66605610515175,0.9337671001752218,fixed/predeclared,False,"[0,1]",1
+5,gaussian,29.296327090567434,0.8037162621816,fixed/predeclared,False,"[0,1]",1
+5,butterworth,27.99629982344898,0.7376550634702047,fixed/predeclared,False,"[0,1]",1
+5,bilateral,37.85232427455678,0.9413065512975057,fixed/predeclared,False,"[0,1]",1
+10,noisy,28.408219228766946,0.6100851893424988,baseline,False,"[0,1]",1
+10,wiener,33.98152006423233,0.8738577763239542,fixed/predeclared,False,"[0,1]",1
+10,gaussian,29.212160944345328,0.7987377842267355,fixed/predeclared,False,"[0,1]",1
+10,butterworth,27.94435700246137,0.7351754903793335,fixed/predeclared,False,"[0,1]",1
+10,bilateral,34.05644700465654,0.8722588022549947,fixed/predeclared,False,"[0,1]",1
+20,noisy,22.665029836782054,0.3334268132845561,baseline,False,"[0,1]",1
+20,wiener,30.730363373401858,0.7920261224110922,fixed/predeclared,False,"[0,1]",1
+20,gaussian,28.89427010539629,0.780069371064504,fixed/predeclared,False,"[0,1]",1
+20,butterworth,27.744257013436922,0.7256606618563334,fixed/predeclared,False,"[0,1]",1
+20,bilateral,30.09531047871465,0.7242839137713114,fixed/predeclared,False,"[0,1]",1
+40,noisy,17.181735584750285,0.14175077776114145,baseline,False,"[0,1]",1
+40,wiener,28.008232281731313,0.7069727778434753,fixed/predeclared,False,"[0,1]",1
+40,gaussian,27.8347840981281,0.7186966339747111,fixed/predeclared,False,"[0,1]",1
+40,butterworth,27.03771325988449,0.6922591725985209,fixed/predeclared,False,"[0,1]",1
+40,bilateral,25.529362138038266,0.4807908336321513,fixed/predeclared,False,"[0,1]",1

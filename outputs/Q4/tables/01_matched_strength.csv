@@ -1,0 +1,3 @@
+kind,params,variance reduction,edge width,seconds,match normalization score
+bilateral,"sigma_s=3, sigma_r=20",0.8421461686496265,76.0,3.0634381000127178,0.0
+kuwahara,N=5,0.874859003816902,26.0,0.03651219999301247,1.5738176256317162

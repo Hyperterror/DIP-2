@@ -1,0 +1,5 @@
+method,parameters,frequency dimensions,boundary,parameter selection,oracle tuned
+wiener,"radial PSD, width=9, known white floor","(2048, 3072)",periodic FFT,fixed/predeclared,False
+gaussian,D0=0.08 cycles/pixel,"(2048, 3072)",periodic FFT,fixed/predeclared,False
+butterworth,"D0=0.08, n=4","(2048, 3072)",periodic FFT,fixed/predeclared,False
+bilateral,"sigma_s=1.5, sigma_r=2*sigma_norm, reflect","(2048, 3072)",reflect,fixed/predeclared,False

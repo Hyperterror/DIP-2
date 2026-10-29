@@ -1,0 +1,2 @@
+image,shape,mode,dtype,min,max,dynamic range,python,numpy,scipy,total RAM bytes,os,cpu
+D:\College\IIITH\DIP\Assignment-2\DIP_A2\A2\Q3\tunnel_image.jpg,"(3644, 3000, 3)",RGB,uint8,7,255,248,3.13.14,2.2.6,1.17.1,16886128640,Windows-11-10.0.26300-SP0,13th Gen Intel(R) Core(TM) i7-13700HX

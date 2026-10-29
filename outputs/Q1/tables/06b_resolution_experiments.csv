@@ -1,0 +1,4 @@
+experiment,detected peak,recovered amplitude,amplitude error,recovered phase,leakage energy fraction
+"off-bin (13.5,7)","(np.int64(7), np.int64(13))",0.6366207710540874,0.36337922894591257,1.5677283652191227,0.7973569969312496
+two tones 1 bin apart,"[(np.int64(500), np.int64(491)), (np.int64(12), np.int64(21)), (np.int64(221), np.int64(387)), (np.int64(291), np.int64(125))]",1.0000000000000009,8.881784197001252e-16,4.069270239670521e-15,0.7499999999999996
+two tones 3 bins apart,"[(np.int64(12), np.int64(23)), (np.int64(500), np.int64(489)), (np.int64(221), np.int64(82)), (np.int64(291), np.int64(430))]",1.0000000000000004,4.440892098500626e-16,-4.26708609682941e-15,0.7499999999999998

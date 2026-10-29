@@ -1,0 +1,15 @@
+check,measured,tolerance,pass
+transfer dimensions,1.0,0,True
+transfer finite real,0.0,0,True
+DC equals gamma_L,0.0,1e-12,True
+high-frequency approaches gamma_H,0.0,0.01,True
+radial response non-decreasing,0.0,0,True
+log product additivity,1.1102230246251565e-16,1e-14,True
+epsilon log finite,1.0,0,True
+filtered output finite,1.0,0,True
+inverse imaginary residual,6.598453945697528e-15,1e-10,True
+constant-image behavior,3.3306690738754696e-16,1e-08,True
+equalization dimensions,1.0,0,True
+equalization finite valid,1.0,0,True
+equalization LUT monotonic,0.0,0,True
+ROI dimensions consistent,1.0,0,True

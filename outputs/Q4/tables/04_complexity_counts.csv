@@ -1,0 +1,4 @@
+algorithm,geometry,additions,multiplications,exponentiations,comparisons/divisions,complexity,dominant
+bilateral,9x9,163,324,81,1,O(W_b^2),range exponentials
+classical Kuwahara,4 subwindows 6x6,296,296,0,7,O(4K^2) naive; O(1) stats with integral image,subwindow statistics
+Soft-Kuwahara,4 subwindows 6x6,303,304,4,8,O(4K^2) naive; O(1) stats plus 4 exp,variance exponentials

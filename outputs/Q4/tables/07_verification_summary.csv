@@ -1,0 +1,14 @@
+check,measured,tolerance,pass
+clean geometry,1.0,0,True
+noise mean near zero,0.0602198911325115,0.25,True
+noise std near requested,0.009238202139638219,0.25,True
+same noisy comparison input,1.0,0,True
+bilateral constant preservation,1.4210854715202004e-14,1e-10,True
+Kuwahara constant preservation,0.0,1e-10,True
+bilateral reproducibility,0.0,0,True
+soft weights conceptual finite,1.0,0,True
+PSNR identical,inf,0,True
+SSIM identical,0.0,1e-10,True
+step geometry,1.0,0,True
+NCR count,16.0,16,True
+independent realizations,10.0,10,True

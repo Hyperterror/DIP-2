@@ -1,0 +1,2 @@
+length,theta degrees,oversampling,boundary,target SNR dB,measured SNR dB,noise seed,noise mean,noise std
+21.0,25.0,8,circular FFT,20,19.99999999998873,20261029,-6.098161975387484e-10,0.04997234418988228

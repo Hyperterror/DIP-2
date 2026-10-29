@@ -1,0 +1,21 @@
+check,measured,tolerance,expected,pass
+reference shape,1.0,0,"(2048,3072,3)",True
+reference normalized range,0.0,1e-07,"[0,1]",True
+PSF finite/nonnegative,0.0,0,finite and >=0,True
+PSF sum,0.0,1e-06,1,True
+PSF larger length changes support,24.0,0,>0,True
+OTF dimensions,1.0,0,"(2048, 3072)",True
+OTF finite,1.0,0,True,True
+OTF DC,0.0,1e-05,1,True
+primary SNR,1.1269207789155189e-11,1e-05,20,True
+primary noise near zero,6.098161975387484e-10,1e-06,0,True
+inverse finite,1.0,0,True,True
+inverse dimensions,1.0,0,"(2048, 3072, 3)",True
+small circular forward model,2.9802322387695312e-08,1e-06,1e-06,True
+K grid logarithmic,0.0,1e-12,equal log spacing,True
+K covers orders,8.0,7,>=7 decades,True
+all SNR levels,3.0,0,"[30, 20, 10]",True
+optima are measured maxima,1.0,0,True,True
+identical PSNR,0.0,0,infinity,True
+identical SSIM,0.0,1e-05,1,True
+wiener K finite,1.0,0,True,True

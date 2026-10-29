@@ -1,0 +1,4 @@
+metric,value,tolerance,pass
+maximum absolute error,7.708478300116894e-11,1e-08,True
+mean absolute error,1.2121850264513016e-11,1e-08,True
+relative L2 error,4.445380153519967e-13,1e-08,True

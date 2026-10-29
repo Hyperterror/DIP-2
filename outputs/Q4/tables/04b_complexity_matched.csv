@@ -1,0 +1,13 @@
+configuration,algorithm,window samples,adds,mults,exponentiations,divisions,implementation
+matched N=5,bilateral,49,99,196,49,1,naive/direct
+matched N=5,classical Kuwahara,36,80,80,0,7,naive/direct
+matched N=5,classical Kuwahara,4,16,16,0,7,integral-image
+matched N=5,Soft-Kuwahara,36,87,88,4,8,naive/direct
+matched N=11,bilateral,441,883,1764,441,1,naive/direct
+matched N=11,classical Kuwahara,144,296,296,0,7,naive/direct
+matched N=11,classical Kuwahara,4,16,16,0,7,integral-image
+matched N=11,Soft-Kuwahara,144,303,304,4,8,naive/direct
+reference N=11,bilateral,81,163,324,81,1,naive/direct
+reference N=11,classical Kuwahara,144,296,296,0,7,naive/direct
+reference N=11,classical Kuwahara,4,16,16,0,7,integral-image
+reference N=11,Soft-Kuwahara,144,303,304,4,8,naive/direct

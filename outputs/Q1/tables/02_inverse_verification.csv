@@ -1,0 +1,5 @@
+metric,value,tolerance,pass
+maximum absolute reconstruction error,7.212008767965017e-11,1e-08,True
+mean absolute reconstruction error,1.1087719962001377e-11,1e-08,True
+relative L2 reconstruction error,9.347252698516512e-14,1e-10,True
+maximum absolute imaginary residual,5.510969458555337e-11,1e-08,True

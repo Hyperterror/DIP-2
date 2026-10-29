@@ -1,0 +1,2 @@
+reference path,shape,mode,dtype,min,max,dynamic range,python,numpy,os,cpu,total RAM bytes
+"D:\College\IIITH\DIP\Assignment-2\DIP_A2\A2\Q5,6\reference_image.jpg","(2048, 3072, 3)",RGB,uint8,0,255,255,3.13.14,2.2.6,Windows-11-10.0.26300-SP0,13th Gen Intel(R) Core(TM) i7-13700HX,16886128640

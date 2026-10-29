@@ -1,0 +1,5 @@
+file,path,shape,dtype,min,max,dynamic range
+cameraman.tif,D:\College\IIITH\DIP\Assignment-2\DIP_A2\A2\Q2_images\cameraman.tif,"(512, 512)",uint8,0,255,255
+Fig0441(a)(characters_test_pattern).tif,D:\College\IIITH\DIP\Assignment-2\DIP_A2\A2\Q2_images\Fig0441(a)(characters_test_pattern).tif,"(688, 688)",uint8,0,255,255
+Fig0419(a)(text_gaps_of_1_and_2_pixels).tif,D:\College\IIITH\DIP\Assignment-2\DIP_A2\A2\Q2_images\Fig0419(a)(text_gaps_of_1_and_2_pixels).tif,"(444, 508)",uint8,0,255,255
+Fig0457(a)(thumb_print).tif,D:\College\IIITH\DIP\Assignment-2\DIP_A2\A2\Q2_images\Fig0457(a)(thumb_print).tif,"(962, 1026)",uint8,52,255,203
