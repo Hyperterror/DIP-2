@@ -1,4 +1,4 @@
 method,gamma_L,gamma_H,D0,shadow ROI,shadow mean,shadow std,std change vs original,mapping
 original,,,,"rows 1800:2300, cols 300:900",0.08268966013071896,0.031814523386589674,0.0,"raw then clip [0,1]"
-homomorphic recommended,0.45,1.5,50,"rows 1800:2300, cols 300:900",0.3203818836278274,0.0616373993060053,0.029822875919415626,"raw then clip [0,1]"
+homomorphic recommended,0.25,1.2,100,"rows 1800:2300, cols 300:900",0.5290581557238702,0.05840299215575199,0.026588468769162314,"raw then clip [0,1]"
 histogram equalized,,,,"rows 1800:2300, cols 300:900",0.47787329411764706,0.2503612673438919,0.21854674395730223,"raw then clip [0,1]"

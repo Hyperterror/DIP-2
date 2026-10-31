@@ -1,2 +1,2 @@
 path,shape,dtype,min,max,dynamic range,noise sigma,seed,python,numpy,scipy,total RAM bytes,os,cpu
-"D:\College\IIITH\DIP\Assignment-2\DIP_A2\A2\Q1,4\q4.png","(512, 512)",uint8,20,200,180,15.0,20261029,3.13.14,2.2.6,1.17.1,16886128640,Windows-11-10.0.26300-SP0,"Intel64 Family 6 Model 191 Stepping 2, GenuineIntel"
+"D:\College\IIITH\DIP\Assignment-2\DIP_A2\A2\Q1,4\q4.png","(512, 512)",uint8,20,200,180,15.0,20261029,3.13.14,2.2.6,1.17.1,16886128640,Windows-11-10.0.26300-SP0,13th Gen Intel(R) Core(TM) i7-13700HX

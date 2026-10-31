@@ -1,2 +1,2 @@
-status,path,PSNR/SSIM
-pending,D:\College\IIITH\DIP\Assignment-2\DIP_A2\data\real_noisy_photo.jpg,not reported without clean registered reference
+status,path,shape,dtype,min,max,flat region,noise estimation,assumptions,estimated sigma normalized,estimated variance,PSNR/SSIM
+executed,D:\College\IIITH\DIP\Assignment-2\DIP_A2\data\real_noisy_photo.jpg,"(1280, 1174, 3)",uint8,0,255,"rows 0:160, cols 0:146","per-channel robust neighboring differences; max(MAD, 75th-percentile scale, 1/255)",locally smooth selected tile and approximately zero-centred residuals; white/stationary approximation only for Wiener model,0.0041111454471123065,1.6901516887312245e-05,not reported without clean registered reference

@@ -1,4 +1,0 @@
-filter,signed threshold,foreground pixels
-ideal,5,880998
-butterworth4,5,879569
-gaussian_matched,5,877571

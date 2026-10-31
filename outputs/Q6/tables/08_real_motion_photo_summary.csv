@@ -1,2 +1,2 @@
-status,path,PSNR/SSIM
-pending,D:\College\IIITH\DIP\Assignment-2\DIP_A2\data\real_motion_blurred_photo.jpg,not reported without registered sharp reference
+status,path,shape,dtype,min,max,stripe orientation,estimated theta degrees,estimated stripe spacing cycles/pixel,estimated blur length pixels,estimated K,model artifact,PSNR/SSIM
+executed,D:\College\IIITH\DIP\Assignment-2\DIP_A2\data\real_motion_blurred_photo.jpg,"(860, 1307, 3)",uint8,0,255,vertical dark stripes; horizontal motion,0.0,0.016666666666666666,60.0,0.003,residual streaking/ringing and spatially varying sharpness; one PSF cannot model changing scene/camera motion,not reported without registered sharp reference
